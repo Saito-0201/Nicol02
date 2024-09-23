@@ -1,2 +1,1 @@
-# Nicol02
-Dedicatoria html
+# Dedicatoria
